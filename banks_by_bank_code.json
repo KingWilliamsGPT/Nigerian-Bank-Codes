@@ -1,0 +1,1158 @@
+{
+    "C34": {
+        "bank_name": "9 PAYMENT SERVICE BANK",
+        "label": "_9_PAYMENT_SERVICE_BANK"
+    },
+    "A04": {
+        "bank_name": "ABBEY MORTGAGE BANK",
+        "label": "ABBEY_MORTGAGE_BANK"
+    },
+    "F12": {
+        "bank_name": "ABSU MICROFINANCE BANK",
+        "label": "ABSU_MICROFINANCE_BANK"
+    },
+    "780": {
+        "bank_name": "ABU MICROFINANCE BANK",
+        "label": "ABU_MICROFINANCE_BANK"
+    },
+    "D80": {
+        "bank_name": "ABUCOOP MICROFINANCE BANK",
+        "label": "ABUCOOP_MICROFINANCE_BANK"
+    },
+    "044": {
+        "bank_name": "ACCESS BANK NIGERIA PLC",
+        "label": "ACCESS_BANK_NIGERIA_PLC"
+    },
+    "063": {
+        "bank_name": "ACCESS BANK PLC (DIAMOND)",
+        "label": "ACCESS_BANK_PLC_DIAMOND"
+    },
+    "323": {
+        "bank_name": "ACCESS MOBILE",
+        "label": "ACCESS_MOBILE"
+    },
+    "B77": {
+        "bank_name": "ACCESS YELLO & BETA",
+        "label": "ACCESS_YELLO_BETA"
+    },
+    "603": {
+        "bank_name": "Accion Microfinance Bank",
+        "label": "ACCION_MICROFINANCE_BANK"
+    },
+    "A07": {
+        "bank_name": "ADDOSSER MICROFINANCE BANK",
+        "label": "ADDOSSER_MICROFINANCE_BANK"
+    },
+    "716": {
+        "bank_name": "AFEKHAFE MICROFINANCE BANK",
+        "label": "AFEKHAFE_MICROFINANCE_BANK"
+    },
+    "014": {
+        "bank_name": "AFRIBANK NIGERIA PLC",
+        "label": "AFRIBANK_NIGERIA_PLC"
+    },
+    "A09": {
+        "bank_name": "AG MORTGAGE BANK PLC",
+        "label": "AG_MORTGAGE_BANK_PLC"
+    },
+    "D91": {
+        "bank_name": "AGOSASA MICROFINANCE BANK",
+        "label": "AGOSASA_MICROFINANCE_BANK"
+    },
+    "965": {
+        "bank_name": "AKPO MICROFINANCE BANK",
+        "label": "AKPO_MICROFINANCE_BANK"
+    },
+    "D25": {
+        "bank_name": "AKU MICROFINANCE BANK",
+        "label": "AKU_MICROFINANCE_BANK"
+    },
+    "C73": {
+        "bank_name": "AKWA SAVINGS AND LOANS LIMITED",
+        "label": "AKWA_SAVINGS_AND_LOANS_LIMITED"
+    },
+    "A11": {
+        "bank_name": "AL-BARAKAH MICROFINANCE BANK",
+        "label": "AL_BARAKAH_MICROFINANCE_BANK"
+    },
+    "A13": {
+        "bank_name": "ALERT MICROFINANCE BANK",
+        "label": "ALERT_MICROFINANCE_BANK"
+    },
+    "F25": {
+        "bank_name": "ALTERNATIVE BANK LIMITED",
+        "label": "ALTERNATIVE_BANK_LIMITED"
+    },
+    "751": {
+        "bank_name": "ALVANA MICROFINANCE BANK",
+        "label": "ALVANA_MICROFINANCE_BANK"
+    },
+    "E09": {
+        "bank_name": "AMEGY MICROFINANCE BANK",
+        "label": "AMEGY_MICROFINANCE_BANK"
+    },
+    "964": {
+        "bank_name": "AMOYE MICROFINANCE BANK",
+        "label": "AMOYE_MICROFINANCE_BANK"
+    },
+    "953": {
+        "bank_name": "Amucha Microfinance Bank",
+        "label": "AMUCHA_MICROFINANCE_BANK"
+    },
+    "885": {
+        "bank_name": "ANIOCHA MICROFINANCE BANK",
+        "label": "ANIOCHA_MICROFINANCE_BANK"
+    },
+    "A20": {
+        "bank_name": "APPLE MICROFINANCE BANK",
+        "label": "APPLE_MICROFINANCE_BANK"
+    },
+    "785": {
+        "bank_name": "ASO SAVINGS AND LOANS",
+        "label": "ASO_SAVINGS_AND_LOANS"
+    },
+    "712": {
+        "bank_name": "Assets Microfinance Bank",
+        "label": "ASSETS_MICROFINANCE_BANK"
+    },
+    "D70": {
+        "bank_name": "ATBU MFB",
+        "label": "ATBU_MFB"
+    },
+    "970": {
+        "bank_name": "AVE MARIA MICROFINANCE BANK",
+        "label": "AVE_MARIA_MICROFINANCE_BANK"
+    },
+    "969": {
+        "bank_name": "AVUENEGBE MICROFINANCE BANK",
+        "label": "AVUENEGBE_MICROFINANCE_BANK"
+    },
+    "880": {
+        "bank_name": "AWACASH MICROFINANCE BANK",
+        "label": "AWACASH_MICROFINANCE_BANK"
+    },
+    "D18": {
+        "bank_name": "AZTEC MICROFINANCE BANK AMB",
+        "label": "AZTEC_MICROFINANCE_BANK_AMB"
+    },
+    "F02": {
+        "bank_name": "BABURA MICROFINANCE BANK",
+        "label": "BABURA_MICROFINANCE_BANK"
+    },
+    "A25": {
+        "bank_name": "Baines Credit Microfinance Bank",
+        "label": "BAINES_CREDIT_MICROFINANCE_BANK"
+    },
+    "713": {
+        "bank_name": "Balogun Fulani MICROFINANCE BANK",
+        "label": "BALOGUN_FULANI_MICROFINANCE_BANK"
+    },
+    "E04": {
+        "bank_name": "BANC CORP MICROFINANCE BANK",
+        "label": "BANC_CORP_MICROFINANCE_BANK"
+    },
+    "958": {
+        "bank_name": "BESTSTAR MICROFINANCE BANK",
+        "label": "BESTSTAR_MICROFINANCE_BANK"
+    },
+    "C14": {
+        "bank_name": "BIPC MICROFINANCE BANK",
+        "label": "BIPC_MICROFINANCE_BANK"
+    },
+    "811": {
+        "bank_name": "BLUEPRINT INVESTMENTS MICROFINANCE BANK",
+        "label": "BLUEPRINT_INVESTMENTS_MICROFINANCE_BANK"
+    },
+    "D72": {
+        "bank_name": "BOI Microfinance Bank",
+        "label": "BOI_MICROFINANCE_BANK"
+    },
+    "F13": {
+        "bank_name": "BORSTAL MICROFINANCE BANK",
+        "label": "BORSTAL_MICROFINANCE_BANK"
+    },
+    "615": {
+        "bank_name": "BRENT MORTGAGE BANK",
+        "label": "BRENT_MORTGAGE_BANK"
+    },
+    "335": {
+        "bank_name": "BRIDGEWAY MICROFINANCE BANK",
+        "label": "BRIDGEWAY_MICROFINANCE_BANK"
+    },
+    "A35": {
+        "bank_name": "BRIGHTWAY MICROFINANCE BANK",
+        "label": "BRIGHTWAY_MICROFINANCE_BANK"
+    },
+    "883": {
+        "bank_name": "BRIYTH-COVENANT MICROFINANCE BANK",
+        "label": "BRIYTH_COVENANT_MICROFINANCE_BANK"
+    },
+    "F20": {
+        "bank_name": "BUNKURE MICROFINANCE BANK",
+        "label": "BUNKURE_MICROFINANCE_BANK"
+    },
+    "F16": {
+        "bank_name": "CANAAN MICROFINANCE BANK",
+        "label": "CANAAN_MICROFINANCE_BANK"
+    },
+    "565": {
+        "bank_name": "Carbon",
+        "label": "CARBON"
+    },
+    "886": {
+        "bank_name": "CASHBRIDGE MICROFINANCE BANK",
+        "label": "CASHBRIDGE_MICROFINANCE_BANK"
+    },
+    "A36": {
+        "bank_name": "CASHCONNECT",
+        "label": "CASHCONNECT"
+    },
+    "F24": {
+        "bank_name": "CASHRITE MICROFINANCE BANK",
+        "label": "CASHRITE_MICROFINANCE_BANK"
+    },
+    "C15": {
+        "bank_name": "CELLULANT",
+        "label": "CELLULANT"
+    },
+    "A37": {
+        "bank_name": "CEMCS Microfinance Bank",
+        "label": "CEMCS_MICROFINANCE_BANK"
+    },
+    "010": {
+        "bank_name": "CENTRAL BANK OF NIGERIA",
+        "label": "CENTRAL_BANK_OF_NIGERIA"
+    },
+    "B78": {
+        "bank_name": "CHAMS MOBILE",
+        "label": "CHAMS_MOBILE"
+    },
+    "D87": {
+        "bank_name": "CHANELLE MICROFINANCE BANK",
+        "label": "CHANELLE_MICROFINANCE_BANK"
+    },
+    "694": {
+        "bank_name": "CHIBUEZE MICROFINANCE BANK",
+        "label": "CHIBUEZE_MICROFINANCE_BANK"
+    },
+    "D50": {
+        "bank_name": "CHUKWUNENYE MFB",
+        "label": "CHUKWUNENYE_MFB"
+    },
+    "023": {
+        "bank_name": "CITIBANK",
+        "label": "CITIBANK"
+    },
+    "714": {
+        "bank_name": "COALCAMP MICROFINANCE BANK",
+        "label": "COALCAMP_MICROFINANCE_BANK"
+    },
+    "A40": {
+        "bank_name": "COASTLINE MICROFINANCE BANK",
+        "label": "COASTLINE_MICROFINANCE_BANK"
+    },
+    "D26": {
+        "bank_name": "CONFIDENCE MICROFINANCE BANK",
+        "label": "CONFIDENCE_MICROFINANCE_BANK"
+    },
+    "693": {
+        "bank_name": "COOP MORTGAGE BANK",
+        "label": "COOP_MORTGAGE_BANK"
+    },
+    "A43": {
+        "bank_name": "CORESTEP MICROFINANCE BANK",
+        "label": "CORESTEP_MICROFINANCE_BANK"
+    },
+    "C16": {
+        "bank_name": "CORONATION MERCHANT BANK",
+        "label": "CORONATION_MERCHANT_BANK"
+    },
+    "756": {
+        "bank_name": "COVENANT MICROFINANCE BANK",
+        "label": "COVENANT_MICROFINANCE_BANK"
+    },
+    "A44": {
+        "bank_name": "CREDIT AFRIQUE MICROFINANCE BANK",
+        "label": "CREDIT_AFRIQUE_MICROFINANCE_BANK"
+    },
+    "904": {
+        "bank_name": "Creditville Microfinance Bank",
+        "label": "CREDITVILLE_MICROFINANCE_BANK"
+    },
+    "802": {
+        "bank_name": "CRUTECH MICROFINANCE BANK",
+        "label": "CRUTECH_MICROFINANCE_BANK"
+    },
+    "890": {
+        "bank_name": "CS ADVANCE FINANCE COMPANY LIMITED",
+        "label": "CS_ADVANCE_FINANCE_COMPANY_LIMITED"
+    },
+    "891": {
+        "bank_name": "DAL MICROFINANCE BANK",
+        "label": "DAL_MICROFINANCE_BANK"
+    },
+    "A45": {
+        "bank_name": "DAVODANI MICROFINANCE BANK",
+        "label": "DAVODANI_MICROFINANCE_BANK"
+    },
+    "963": {
+        "bank_name": "DIGNITY FINANCE AND INVESTMENT LIMITED",
+        "label": "DIGNITY_FINANCE_AND_INVESTMENT_LIMITED"
+    },
+    "F05": {
+        "bank_name": "DIOBU MICROFINANCE BANK",
+        "label": "DIOBU_MICROFINANCE_BANK"
+    },
+    "C84": {
+        "bank_name": "DOT MICROFINANCE BANK",
+        "label": "DOT_MICROFINANCE_BANK"
+    },
+    "626": {
+        "bank_name": "EARTHOLEUM",
+        "label": "EARTHOLEUM"
+    },
+    "D79": {
+        "bank_name": "EBSU MFB",
+        "label": "EBSU_MFB"
+    },
+    "050": {
+        "bank_name": "ECOBANK NIGERIA PLC",
+        "label": "ECOBANK_NIGERIA_PLC"
+    },
+    "B81": {
+        "bank_name": "Ecobank Xpress Account",
+        "label": "ECOBANK_XPRESS_ACCOUNT"
+    },
+    "645": {
+        "bank_name": "EDFIN MICROFINANCE BANK",
+        "label": "EDFIN_MICROFINANCE_BANK"
+    },
+    "895": {
+        "bank_name": "E-FINANCE",
+        "label": "E_FINANCE"
+    },
+    "A51": {
+        "bank_name": "EK-RELIABLE MICROFINANCE BANK",
+        "label": "EK_RELIABLE_MICROFINANCE_BANK"
+    },
+    "972": {
+        "bank_name": "ENCO FINANCE COMPANY LTD",
+        "label": "ENCO_FINANCE_COMPANY_LTD"
+    },
+    "D19": {
+        "bank_name": "ENRICH MICROFINANCE BANK",
+        "label": "ENRICH_MICROFINANCE_BANK"
+    },
+    "084": {
+        "bank_name": "ENTERPRISE BANK LIMITED",
+        "label": "ENTERPRISE_BANK_LIMITED"
+    },
+    "040": {
+        "bank_name": "EQUITORIAL TRUST BANK PLC",
+        "label": "EQUITORIAL_TRUST_BANK_PLC"
+    },
+    "A55": {
+        "bank_name": "ESAN MICROFINANCE BANK",
+        "label": "ESAN_MICROFINANCE_BANK"
+    },
+    "A56": {
+        "bank_name": "ESO-E MICROFINANCE BANK",
+        "label": "ESO_E_MICROFINANCE_BANK"
+    },
+    "317": {
+        "bank_name": "E-TRANZACT",
+        "label": "E_TRANZACT"
+    },
+    "D96": {
+        "bank_name": "Fame Microfinance Bank",
+        "label": "FAME_MICROFINANCE_BANK"
+    },
+    "309": {
+        "bank_name": "FBN MOBILE",
+        "label": "FBN_MOBILE"
+    },
+    "A70": {
+        "bank_name": "FBN MORTGAGE BANK (FIRST TRUST MORTGAGE BANK)",
+        "label": "FBN_MORTGAGE_BANK_FIRST_TRUST_MORTGAGE_BANK"
+    },
+    "C17": {
+        "bank_name": "FBNQUEST MERCHANT BANK",
+        "label": "FBNQUEST_MERCHANT_BANK"
+    },
+    "312": {
+        "bank_name": "FCMB Easy Account",
+        "label": "FCMB_EASY_ACCOUNT"
+    },
+    "A61": {
+        "bank_name": "FEDERAL UNIVERSITY DUTSE",
+        "label": "FEDERAL_UNIVERSITY_DUTSE"
+    },
+    "B85": {
+        "bank_name": "FET",
+        "label": "FET"
+    },
+    "070": {
+        "bank_name": "FIDELITY BANK PLC",
+        "label": "FIDELITY_BANK_PLC"
+    },
+    "B86": {
+        "bank_name": "Fidelity Mobile",
+        "label": "FIDELITY_MOBILE"
+    },
+    "C36": {
+        "bank_name": "FINCA MICROFINANCE BANK",
+        "label": "FINCA_MICROFINANCE_BANK"
+    },
+    "676": {
+        "bank_name": "FIRMUS MICROFINANCE BANK",
+        "label": "FIRMUS_MICROFINANCE_BANK"
+    },
+    "011": {
+        "bank_name": "FIRST BANK PLC",
+        "label": "FIRST_BANK_PLC"
+    },
+    "214": {
+        "bank_name": "FIRST CITY MONUMENT BANK PLC",
+        "label": "FIRST_CITY_MONUMENT_BANK_PLC"
+    },
+    "085": {
+        "bank_name": "FIRST INLAND BANK PLC",
+        "label": "FIRST_INLAND_BANK_PLC"
+    },
+    "413": {
+        "bank_name": "FIRSTTRUST MORTGAGE BANK PLC",
+        "label": "FIRSTTRUST_MORTGAGE_BANK_PLC"
+    },
+    "E05": {
+        "bank_name": "FLOURISH MFB",
+        "label": "FLOURISH_MFB"
+    },
+    "B88": {
+        "bank_name": "FORTIS MOBILE",
+        "label": "FORTIS_MOBILE"
+    },
+    "501": {
+        "bank_name": "FSDH",
+        "label": "FSDH"
+    },
+    "894": {
+        "bank_name": "GABASAWA MICROFINANCE BANK",
+        "label": "GABASAWA_MICROFINANCE_BANK"
+    },
+    "A73": {
+        "bank_name": "Gateway Mortgage Bank",
+        "label": "GATEWAY_MORTGAGE_BANK"
+    },
+    "902": {
+        "bank_name": "GIDAUNIYAR ALHERI MICROFINANCE BANK",
+        "label": "GIDAUNIYAR_ALHERI_MICROFINANCE_BANK"
+    },
+    "703": {
+        "bank_name": "GIREI MICROFINANCE BANK",
+        "label": "GIREI_MICROFINANCE_BANK"
+    },
+    "884": {
+        "bank_name": "GLOBAL INITIATIVE MICROFINANCE BANK",
+        "label": "GLOBAL_INITIATIVE_MICROFINANCE_BANK"
+    },
+    "103": {
+        "bank_name": "GLOBUS BANK",
+        "label": "GLOBUS_BANK"
+    },
+    "A74": {
+        "bank_name": "Glory Microfiance Bank",
+        "label": "GLORY_MICROFIANCE_BANK"
+    },
+    "F07": {
+        "bank_name": "GOMBE MICROFINANCE BANK LIMITED",
+        "label": "GOMBE_MICROFINANCE_BANK_LIMITED"
+    },
+    "B89": {
+        "bank_name": "GoMoney",
+        "label": "GOMONEY"
+    },
+    "C85": {
+        "bank_name": "GOODNEWS MICROFINANCE",
+        "label": "GOODNEWS_MICROFINANCE"
+    },
+    "F11": {
+        "bank_name": "GREENACRES MICROFINANCE BANK",
+        "label": "GREENACRES_MICROFINANCE_BANK"
+    },
+    "A77": {
+        "bank_name": "Greenville Microfinance Bank",
+        "label": "GREENVILLE_MICROFINANCE_BANK"
+    },
+    "C57": {
+        "bank_name": "GREENWICH MERCHANT BANK",
+        "label": "GREENWICH_MERCHANT_BANK"
+    },
+    "B90": {
+        "bank_name": "GTBANK MOBILE MONEY",
+        "label": "GTBANK_MOBILE_MONEY"
+    },
+    "058": {
+        "bank_name": "GTBANK PLC",
+        "label": "GTBANK_PLC"
+    },
+    "A79": {
+        "bank_name": "GTI MICROFINANCE BANK",
+        "label": "GTI_MICROFINANCE_BANK"
+    },
+    "A81": {
+        "bank_name": "Haggai Mortgage Bank Limited",
+        "label": "HAGGAI_MORTGAGE_BANK_LIMITED"
+    },
+    "B91": {
+        "bank_name": "HEDONMARK MOBILE",
+        "label": "HEDONMARK_MOBILE"
+    },
+    "030": {
+        "bank_name": "HERITAGE BANK",
+        "label": "HERITAGE_BANK"
+    },
+    "C74": {
+        "bank_name": "HOMEBASE MORTGAGE BANK",
+        "label": "HOMEBASE_MORTGAGE_BANK"
+    },
+    "800": {
+        "bank_name": "HOPE PAYMENT SERVICE BANK",
+        "label": "HOPE_PAYMENT_SERVICE_BANK"
+    },
+    "D75": {
+        "bank_name": "Ibeto Microfinance Bank",
+        "label": "IBETO_MICROFINANCE_BANK"
+    },
+    "D24": {
+        "bank_name": "IBOLO MICROFINANCE BANK",
+        "label": "IBOLO_MICROFINANCE_BANK"
+    },
+    "D51": {
+        "bank_name": "IBU-AJE MICROFINANCE BANK",
+        "label": "IBU_AJE_MICROFINANCE_BANK"
+    },
+    "D33": {
+        "bank_name": "IC-GLOBAL MFB",
+        "label": "IC_GLOBAL_MFB"
+    },
+    "A86": {
+        "bank_name": "IKENNE MICROFINANCE BANK",
+        "label": "IKENNE_MICROFINANCE_BANK"
+    },
+    "A87": {
+        "bank_name": "IKIRE MICROFINANCE BANK",
+        "label": "IKIRE_MICROFINANCE_BANK"
+    },
+    "C94": {
+        "bank_name": "ILARO POLY MICROFINANCE BANK",
+        "label": "ILARO_POLY_MICROFINANCE_BANK"
+    },
+    "F10": {
+        "bank_name": "ILORA MICROFINANCE",
+        "label": "ILORA_MICROFINANCE"
+    },
+    "A91": {
+        "bank_name": "Infinity Trust Mortgage Bank",
+        "label": "INFINITY_TRUST_MORTGAGE_BANK"
+    },
+    "A93": {
+        "bank_name": "ISALE OYO MICROFINANCE BANK",
+        "label": "ISALE_OYO_MICROFINANCE_BANK"
+    },
+    "867": {
+        "bank_name": "ISLAND MICROFINANCE BANK",
+        "label": "ISLAND_MICROFINANCE_BANK"
+    },
+    "903": {
+        "bank_name": "Iyin Ekiti Microfinance Bank",
+        "label": "IYIN_EKITI_MICROFINANCE_BANK"
+    },
+    "301": {
+        "bank_name": "JAIZ BANK",
+        "label": "JAIZ_BANK"
+    },
+    "D92": {
+        "bank_name": "JUBILEE LIFE MORTGAGE BANK",
+        "label": "JUBILEE_LIFE_MORTGAGE_BANK"
+    },
+    "971": {
+        "bank_name": "KANOPOLY MICROFINANCE BANK LIMITED",
+        "label": "KANOPOLY_MICROFINANCE_BANK_LIMITED"
+    },
+    "082": {
+        "bank_name": "KEYSTONE BANK PLC",
+        "label": "KEYSTONE_BANK_PLC"
+    },
+    "899": {
+        "bank_name": "KKU Microfinance Bank",
+        "label": "KKU_MICROFINANCE_BANK"
+    },
+    "A97": {
+        "bank_name": "KONTAGORA MICROFINANCE BANK",
+        "label": "KONTAGORA_MICROFINANCE_BANK"
+    },
+    "910": {
+        "bank_name": "KOPO KOPE MICROFINANCE BANK",
+        "label": "KOPO_KOPE_MICROFINANCE_BANK"
+    },
+    "A98": {
+        "bank_name": "KUDA MICROFINANCE BANK",
+        "label": "KUDA_MICROFINANCE_BANK"
+    },
+    "594": {
+        "bank_name": "La Fayette Microfinance Bank",
+        "label": "LA_FAYETTE_MICROFINANCE_BANK"
+    },
+    "C25": {
+        "bank_name": "LAGOS BUILDING INVESTMENT COMPANY",
+        "label": "LAGOS_BUILDING_INVESTMENT_COMPANY"
+    },
+    "B01": {
+        "bank_name": "Lapo Microfinance Bank",
+        "label": "LAPO_MICROFINANCE_BANK"
+    },
+    "F17": {
+        "bank_name": "LEADCITY MICROFINANCE BANK",
+        "label": "LEADCITY_MICROFINANCE_BANK"
+    },
+    "898": {
+        "bank_name": "LEADREMIT LIMITED",
+        "label": "LEADREMIT_LIMITED"
+    },
+    "B03": {
+        "bank_name": "LEGEND MICROFINANCE BANK",
+        "label": "LEGEND_MICROFINANCE_BANK"
+    },
+    "216": {
+        "bank_name": "LETSHEGO MFB",
+        "label": "LETSHEGO_MFB"
+    },
+    "699": {
+        "bank_name": "LINKS MICROFINANCE BANK",
+        "label": "LINKS_MICROFINANCE_BANK"
+    },
+    "C38": {
+        "bank_name": "Living Trust Mortgage Bank",
+        "label": "LIVING_TRUST_MORTGAGE_BANK"
+    },
+    "D21": {
+        "bank_name": "Lobrem Microfinance Bank",
+        "label": "LOBREM_MICROFINANCE_BANK"
+    },
+    "303": {
+        "bank_name": "Lotus Bank",
+        "label": "LOTUS_BANK"
+    },
+    "897": {
+        "bank_name": "LUKEFIELD FINANCE COMPANY LIMITED",
+        "label": "LUKEFIELD_FINANCE_COMPANY_LIMITED"
+    },
+    "900": {
+        "bank_name": "MAB ALLIANZ MICROFINANCE BANK",
+        "label": "MAB_ALLIANZ_MICROFINANCE_BANK"
+    },
+    "879": {
+        "bank_name": "MABINAS MICROFINANCE BANK",
+        "label": "MABINAS_MICROFINANCE_BANK"
+    },
+    "906": {
+        "bank_name": "MACROD MICROFINANCE BANK LIMITED",
+        "label": "MACROD_MICROFINANCE_BANK_LIMITED"
+    },
+    "893": {
+        "bank_name": "MADOBI MICROFINANCE BANK",
+        "label": "MADOBI_MICROFINANCE_BANK"
+    },
+    "C86": {
+        "bank_name": "MANNY MICROFINANCE BANK",
+        "label": "MANNY_MICROFINANCE_BANK"
+    },
+    "B09": {
+        "bank_name": "MAYFAIR MICROFINANCE BANK",
+        "label": "MAYFAIR_MICROFINANCE_BANK"
+    },
+    "962": {
+        "bank_name": "MEDEF MICROFINANCE BANK",
+        "label": "MEDEF_MICROFINANCE_BANK"
+    },
+    "D28": {
+        "bank_name": "MGBIDI MICROFINANCE BANK",
+        "label": "MGBIDI_MICROFINANCE_BANK"
+    },
+    "F23": {
+        "bank_name": "MICHAEL OKPARA UNIAGRIC MICROFINANCE BANK",
+        "label": "MICHAEL_OKPARA_UNIAGRIC_MICROFINANCE_BANK"
+    },
+    "B12": {
+        "bank_name": "MICROVIS MICROFINANCE BANK",
+        "label": "MICROVIS_MICROFINANCE_BANK"
+    },
+    "766": {
+        "bank_name": "MIDLAND MICROFINANCE BANK",
+        "label": "MIDLAND_MICROFINANCE_BANK"
+    },
+    "B94": {
+        "bank_name": "MIMO (MKUDI)",
+        "label": "MIMO_MKUDI"
+    },
+    "882": {
+        "bank_name": "MINJIBIR MICROFINANCE BANK",
+        "label": "MINJIBIR_MICROFINANCE_BANK"
+    },
+    "B13": {
+        "bank_name": "MINT-FINEX MFB",
+        "label": "MINT_FINEX_MFB"
+    },
+    "B14": {
+        "bank_name": "MOLUSI MICROFINANCE BANK",
+        "label": "MOLUSI_MICROFINANCE_BANK"
+    },
+    "C47": {
+        "bank_name": "MOMO PAYMENT SERVICE BANK",
+        "label": "MOMO_PAYMENT_SERVICE_BANK"
+    },
+    "C39": {
+        "bank_name": "MONIEPOINT MICROFINANCE BANK",
+        "label": "MONIEPOINT_MICROFINANCE_BANK"
+    },
+    "B17": {
+        "bank_name": "Mutual Benefits Microfinance Bank",
+        "label": "MUTUAL_BENEFITS_MICROFINANCE_BANK"
+    },
+    "B18": {
+        "bank_name": "Mutual Trust Microfinance Bank",
+        "label": "MUTUAL_TRUST_MICROFINANCE_BANK"
+    },
+    "598": {
+        "bank_name": "NAGARTA MICROFINANCE BANK",
+        "label": "NAGARTA_MICROFINANCE_BANK"
+    },
+    "807": {
+        "bank_name": "NASARAWA MICROFINANCE BANK",
+        "label": "NASARAWA_MICROFINANCE_BANK"
+    },
+    "B21": {
+        "bank_name": "NEPTUNE MICROFINANCE BANK",
+        "label": "NEPTUNE_MICROFINANCE_BANK"
+    },
+    "F18": {
+        "bank_name": "NEXIM BANK",
+        "label": "NEXIM_BANK"
+    },
+    "999": {
+        "bank_name": "NIBSS",
+        "label": "NIBSS"
+    },
+    "039": {
+        "bank_name": "STANBIC IBTC BANK PLC",
+        "label": "STANBIC_IBTC_BANK_PLC"
+    },
+    "B26": {
+        "bank_name": "NIRSAL MICROFINANCE BANK",
+        "label": "NIRSAL_MICROFINANCE_BANK"
+    },
+    "561": {
+        "bank_name": "NOVA MERCHANT BANK",
+        "label": "NOVA_MERCHANT_BANK"
+    },
+    "997": {
+        "bank_name": "NOW NOW DIGITAL SYSTEMS",
+        "label": "NOW_NOW_DIGITAL_SYSTEMS"
+    },
+    "B28": {
+        "bank_name": "NPF MICROFINANCE BANK",
+        "label": "NPF_MICROFINANCE_BANK"
+    },
+    "888": {
+        "bank_name": "NSEHE MICROFINANCE BANK",
+        "label": "NSEHE_MICROFINANCE_BANK"
+    },
+    "786": {
+        "bank_name": "NUMO MICORFINANCE BANK",
+        "label": "NUMO_MICORFINANCE_BANK"
+    },
+    "660": {
+        "bank_name": "NURTURE MICROFINANCE BANK",
+        "label": "NURTURE_MICROFINANCE_BANK"
+    },
+    "D86": {
+        "bank_name": "NWANNEGADI MICROFINANCE BANK",
+        "label": "NWANNEGADI_MICROFINANCE_BANK"
+    },
+    "056": {
+        "bank_name": "OCEANIC BANK NIGERIA PLC",
+        "label": "OCEANIC_BANK_NIGERIA_PLC"
+    },
+    "F19": {
+        "bank_name": "Odoakpu Microfinance Bank Limited",
+        "label": "ODOAKPU_MICROFINANCE_BANK_LIMITED"
+    },
+    "887": {
+        "bank_name": "OHHA MICROFINANCE BANK",
+        "label": "OHHA_MICROFINANCE_BANK"
+    },
+    "F14": {
+        "bank_name": "OKENGWE MICROFINANCE BANK",
+        "label": "OKENGWE_MICROFINANCE_BANK"
+    },
+    "D61": {
+        "bank_name": "OLOFIN-OWENA MICROFINANCE BANK",
+        "label": "OLOFIN_OWENA_MICROFINANCE_BANK"
+    },
+    "D60": {
+        "bank_name": "Oluchukwu Microfinance Bank",
+        "label": "OLUCHUKWU_MICROFINANCE_BANK"
+    },
+    "C03": {
+        "bank_name": "OPAY",
+        "label": "OPAY"
+    },
+    "107": {
+        "bank_name": "OPTIMUS BANK LIMITED",
+        "label": "OPTIMUS_BANK_LIMITED"
+    },
+    "881": {
+        "bank_name": "OYAN MICROFINANCE BANK",
+        "label": "OYAN_MICROFINANCE_BANK"
+    },
+    "B98": {
+        "bank_name": "PAGA",
+        "label": "PAGA"
+    },
+    "B35": {
+        "bank_name": "Page MFBank",
+        "label": "PAGE_MFBANK"
+    },
+    "B99": {
+        "bank_name": "PalmPay Limited",
+        "label": "PALMPAY_LIMITED"
+    },
+    "104": {
+        "bank_name": "PARALLEX BANK LIMITED",
+        "label": "PARALLEX_BANK_LIMITED"
+    },
+    "D89": {
+        "bank_name": "PARKWAY",
+        "label": "PARKWAY"
+    },
+    "526": {
+        "bank_name": "Parrallllex",
+        "label": "PARRALLLLEX"
+    },
+    "C02": {
+        "bank_name": "PAYATTITUDE ONLINE",
+        "label": "PAYATTITUDE_ONLINE"
+    },
+    "C67": {
+        "bank_name": "Paystack Payment Limited",
+        "label": "PAYSTACK_PAYMENT_LIMITED"
+    },
+    "C40": {
+        "bank_name": "Peace Microfinance Bank",
+        "label": "PEACE_MICROFINANCE_BANK"
+    },
+    "B37": {
+        "bank_name": "PecanTrust Microfinance Bank",
+        "label": "PECANTRUST_MICROFINANCE_BANK"
+    },
+    "D90": {
+        "bank_name": "Peniel Microfinance Bank",
+        "label": "PENIEL_MICROFINANCE_BANK"
+    },
+    "B38": {
+        "bank_name": "Pennywise MFB",
+        "label": "PENNYWISE_MFB"
+    },
+    "076": {
+        "bank_name": "POLARIS BANK",
+        "label": "POLARIS_BANK"
+    },
+    "809": {
+        "bank_name": "POLYBADAN MICROFINANCE BANK",
+        "label": "POLYBADAN_MICROFINANCE_BANK"
+    },
+    "D83": {
+        "bank_name": "PREEMINENT MICROFINANCE BANK",
+        "label": "PREEMINENT_MICROFINANCE_BANK"
+    },
+    "105": {
+        "bank_name": "PREMIUMTRUST BANK",
+        "label": "PREMIUMTRUST_BANK"
+    },
+    "B43": {
+        "bank_name": "PRESTIGE MICROFINANCE BANK",
+        "label": "PRESTIGE_MICROFINANCE_BANK"
+    },
+    "752": {
+        "bank_name": "PRISTINE DIVITIS MICROFINANCE BANK",
+        "label": "PRISTINE_DIVITIS_MICROFINANCE_BANK"
+    },
+    "F06": {
+        "bank_name": "PROSPERITY MICROFINANCE BANK",
+        "label": "PROSPERITY_MICROFINANCE_BANK"
+    },
+    "101": {
+        "bank_name": "PROVIDUS BANK",
+        "label": "PROVIDUS_BANK"
+    },
+    "B44": {
+        "bank_name": "PURPLEMONEY MFB",
+        "label": "PURPLEMONEY_MFB"
+    },
+    "F22": {
+        "bank_name": "PYRAMID MICROFINANCE BANK",
+        "label": "PYRAMID_MICROFINANCE_BANK"
+    },
+    "502": {
+        "bank_name": "RAND MERCHANT BANK",
+        "label": "RAND_MERCHANT_BANK"
+    },
+    "956": {
+        "bank_name": "RAYYAN MICROFINANCE BANK",
+        "label": "RAYYAN_MICROFINANCE_BANK"
+    },
+    "B47": {
+        "bank_name": "REFUGE MICROFINANCE BANK",
+        "label": "REFUGE_MICROFINANCE_BANK"
+    },
+    "707": {
+        "bank_name": "REHOBOTH MICROFINANCE BANK",
+        "label": "REHOBOTH_MICROFINANCE_BANK"
+    },
+    "B49": {
+        "bank_name": "Reliance Microfinance Bank",
+        "label": "RELIANCE_MICROFINANCE_BANK"
+    },
+    "B50": {
+        "bank_name": "Renmoney Microfinance Bank",
+        "label": "RENMONEY_MICROFINANCE_BANK"
+    },
+    "B51": {
+        "bank_name": "REPHIDIM MICROFINANCE BANK",
+        "label": "REPHIDIM_MICROFINANCE_BANK"
+    },
+    "B52": {
+        "bank_name": "RICHWAY MICROFINANCE BANK",
+        "label": "RICHWAY_MICROFINANCE_BANK"
+    },
+    "720": {
+        "bank_name": "Rigo Microfinance Bank",
+        "label": "RIGO_MICROFINANCE_BANK"
+    },
+    "D73": {
+        "bank_name": "RIMA MICROFINANCE BANK",
+        "label": "RIMA_MICROFINANCE_BANK"
+    },
+    "F21": {
+        "bank_name": "ROYAL BLUE MICROFINANCE BANK",
+        "label": "ROYAL_BLUE_MICROFINANCE_BANK"
+    },
+    "B53": {
+        "bank_name": "Royal Exchange Microfinance Bank",
+        "label": "ROYAL_EXCHANGE_MICROFINANCE_BANK"
+    },
+    "587": {
+        "bank_name": "Rubies MFB",
+        "label": "RUBIES_MFB"
+    },
+    "C41": {
+        "bank_name": "SHEPHERD TRUST MICROFINANCE BANK",
+        "label": "SHEPHERD_TRUST_MICROFINANCE_BANK"
+    },
+    "106": {
+        "bank_name": "SIGNATURE BANK",
+        "label": "SIGNATURE_BANK"
+    },
+    "830": {
+        "bank_name": "SIMPLE FINANCE LIMITED",
+        "label": "SIMPLE_FINANCE_LIMITED"
+    },
+    "D71": {
+        "bank_name": "SLS Microfinance Bank",
+        "label": "SLS_MICROFINANCE_BANK"
+    },
+    "C60": {
+        "bank_name": "SMARTCASH PAYMENT SERVICE BANK",
+        "label": "SMARTCASH_PAYMENT_SERVICE_BANK"
+    },
+    "F04": {
+        "bank_name": "SOURCE MICROFINANCE BANK",
+        "label": "SOURCE_MICROFINANCE_BANK"
+    },
+    "B59": {
+        "bank_name": "Sparkle",
+        "label": "SPARKLE"
+    },
+    "D76": {
+        "bank_name": "SPECTRUM MICROFINANCE BANK",
+        "label": "SPECTRUM_MICROFINANCE_BANK"
+    },
+    "C05": {
+        "bank_name": "Stanbic IBTC @ease wallet",
+        "label": "STANBIC_IBTC_EASE_WALLET"
+    },
+    "068": {
+        "bank_name": "STANDARD CHARTERED BANK NIGERIA LIMITED",
+        "label": "STANDARD_CHARTERED_BANK_NIGERIA_LIMITED"
+    },
+    "709": {
+        "bank_name": "Standard Microfinance Bank",
+        "label": "STANDARD_MICROFINANCE_BANK"
+    },
+    "C76": {
+        "bank_name": "STB MORTGAGE BANK",
+        "label": "STB_MORTGAGE_BANK"
+    },
+    "232": {
+        "bank_name": "STERLING BANK PLC",
+        "label": "STERLING_BANK_PLC"
+    },
+    "700": {
+        "bank_name": "SUNBEAM MICROFINANCE BANK",
+        "label": "SUNBEAM_MICROFINANCE_BANK"
+    },
+    "F08": {
+        "bank_name": "SUNTOP MICROFINANCE BANK",
+        "label": "SUNTOP_MICROFINANCE_BANK"
+    },
+    "100": {
+        "bank_name": "SUNTRUST BANK",
+        "label": "SUNTRUST_BANK"
+    },
+    "302": {
+        "bank_name": "TAJ BANK",
+        "label": "TAJ_BANK"
+    },
+    "F03": {
+        "bank_name": "TANGALE MICROFINANCE BANK",
+        "label": "TANGALE_MICROFINANCE_BANK"
+    },
+    "C82": {
+        "bank_name": "TANGERINE MONEY",
+        "label": "TANGERINE_MONEY"
+    },
+    "966": {
+        "bank_name": "TASUED MICROFINANCE BANK",
+        "label": "TASUED_MICROFINANCE_BANK"
+    },
+    "779": {
+        "bank_name": "TCF MICROFINANCE BANK",
+        "label": "TCF_MICROFINANCE_BANK"
+    },
+    "C07": {
+        "bank_name": "TEASY MOBILE",
+        "label": "TEASY_MOBILE"
+    },
+    "968": {
+        "bank_name": "TEKLA FACTORING AND FINANCE LIMITED",
+        "label": "TEKLA_FACTORING_AND_FINANCE_LIMITED"
+    },
+    "677": {
+        "bank_name": "THINK FINANCE MICROFINANCE BANK",
+        "label": "THINK_FINANCE_MICROFINANCE_BANK"
+    },
+    "102": {
+        "bank_name": "TITAN TRUST BANK",
+        "label": "TITAN_TRUST_BANK"
+    },
+    "889": {
+        "bank_name": "TOTAL TRUST MICROFINANCE BANK",
+        "label": "TOTAL_TRUST_MICROFINANCE_BANK"
+    },
+    "957": {
+        "bank_name": "TRINITY FINANCIAL",
+        "label": "TRINITY_FINANCIAL"
+    },
+    "569": {
+        "bank_name": "TRUSTBANC JB MICROFINANCE BANK",
+        "label": "TRUSTBANC_JB_MICROFINANCE_BANK"
+    },
+    "523": {
+        "bank_name": "TRUSTBOND MORTGAGE (FIRST TRUST MORTGAGE)",
+        "label": "TRUSTBOND_MORTGAGE_FIRST_TRUST_MORTGAGE"
+    },
+    "789": {
+        "bank_name": "U-C MICROFINANCE BANK",
+        "label": "U_C_MICROFINANCE_BANK"
+    },
+    "961": {
+        "bank_name": "UMMAH MICROFINANCE BANK",
+        "label": "UMMAH_MICROFINANCE_BANK"
+    },
+    "F15": {
+        "bank_name": "UMUCHUKWU MICROFINANCE BANK",
+        "label": "UMUCHUKWU_MICROFINANCE_BANK"
+    },
+    "B66": {
+        "bank_name": "UNAAB MICROFINANCE BANK",
+        "label": "UNAAB_MICROFINANCE_BANK"
+    },
+    "F01": {
+        "bank_name": "UNIFUND MICROFINANCE BANK LIMITED",
+        "label": "UNIFUND_MICROFINANCE_BANK_LIMITED"
+    },
+    "728": {
+        "bank_name": "UNILAG MICROFINANCE BANK",
+        "label": "UNILAG_MICROFINANCE_BANK"
+    },
+    "705": {
+        "bank_name": "UNIMAID MICROFINANCE BANK",
+        "label": "UNIMAID_MICROFINANCE_BANK"
+    },
+    "032": {
+        "bank_name": "UNION BANK OF NIGERIA PLC",
+        "label": "UNION_BANK_OF_NIGERIA_PLC"
+    },
+    "033": {
+        "bank_name": "UNITED BANK FOR AFRICA PLC",
+        "label": "UNITED_BANK_FOR_AFRICA_PLC"
+    },
+    "215": {
+        "bank_name": "UNITY BANK PLC",
+        "label": "UNITY_BANK_PLC"
+    },
+    "D95": {
+        "bank_name": "UNIUYO Microfinance Bank",
+        "label": "UNIUYO_MICROFINANCE_BANK"
+    },
+    "892": {
+        "bank_name": "UZONDU MICROFINANCE BANK",
+        "label": "UZONDU_MICROFINANCE_BANK"
+    },
+    "F26": {
+        "bank_name": "VALE FINANCE LIMITED",
+        "label": "VALE_FINANCE_LIMITED"
+    },
+    "B69": {
+        "bank_name": "VFD MICROFINANCE BANK",
+        "label": "VFD_MICROFINANCE_BANK"
+    },
+    "C08": {
+        "bank_name": "VTNETWORK",
+        "label": "VTNETWORK"
+    },
+    "035": {
+        "bank_name": "WEMA BANK PLC",
+        "label": "WEMA_BANK_PLC"
+    },
+    "F09": {
+        "bank_name": "XPRESS WALLET",
+        "label": "XPRESS_WALLET"
+    },
+    "D63": {
+        "bank_name": "YCT Microfinance Bank",
+        "label": "YCT_MICROFINANCE_BANK"
+    },
+    "057": {
+        "bank_name": "ZENITH BANK PLC",
+        "label": "ZENITH_BANK_PLC"
+    },
+    "C10": {
+        "bank_name": "ZENITH MOBILE",
+        "label": "ZENITH_MOBILE"
+    },
+    "025": {
+        "bank_name": "ZINTERNET",
+        "label": "ZINTERNET"
+    }
+}
