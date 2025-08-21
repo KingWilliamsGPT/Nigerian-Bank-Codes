@@ -1,4 +1,4 @@
-# Nigerian Bank Codes
+# Nigerian Bank Codes 🇳🇬
 
 This project provides a comprehensive and structured list of bank codes in Nigeria, including commercial banks, microfinance banks, merchant banks, and payment service providers. The data is organized in a developer-friendly JSON format, making it easy to integrate into applications that require bank code validation, dropdowns, or lookups.
 
